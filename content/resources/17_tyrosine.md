@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource contains starting materials: amino acids and nucleic acids,
   alkaloid biosynthesis: tyrosine derivatives, and alkaloid biosynthesis: tyrosine
   morphine derivatives.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-451-chemistry-of-biomolecules-i-fall-2005/0b2cbf0355da729bf0fb6bce8bb751e5_17_tyrosine.pdf
+file: /media/courses/5-451-chemistry-of-biomolecules-i-fall-2005/0b2cbf0355da729bf0fb6bce8bb751e5_17_tyrosine.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 17_tyrosine.pdf
 uid: 0b2cbf03-55da-729b-f0fb-6bce8bb751e5
