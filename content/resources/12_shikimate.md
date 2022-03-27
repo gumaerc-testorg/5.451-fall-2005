@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 71d0d9d8-c496-91ec-5ad9-23fb1cb8dc42
 resourcetype: Document
 title: 12_shikimate.pdf
 uid: 45dce9c9-9d2f-1c13-addd-3d9c83b53c59

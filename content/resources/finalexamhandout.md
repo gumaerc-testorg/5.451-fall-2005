@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 5e872c97-f5d2-fcb8-00ea-859bad5a118c
 resourcetype: Document
 title: finalexamhandout.pdf
 uid: 62180a05-7c88-66b2-0228-3ef5c6b95adb

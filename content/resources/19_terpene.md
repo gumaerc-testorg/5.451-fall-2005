@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 71d0d9d8-c496-91ec-5ad9-23fb1cb8dc42
 resourcetype: Document
 title: 19_terpene.pdf
 uid: c0a3e277-04f0-232d-b7e6-593f0bcc9b8f

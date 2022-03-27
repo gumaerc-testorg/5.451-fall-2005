@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 71d0d9d8-c496-91ec-5ad9-23fb1cb8dc42
 resourcetype: Document
 title: 14_flavonoid.pdf
 uid: e2e5c454-5c89-64eb-5be1-11376b85be1a

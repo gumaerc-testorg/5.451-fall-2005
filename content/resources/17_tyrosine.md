@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 71d0d9d8-c496-91ec-5ad9-23fb1cb8dc42
 resourcetype: Document
 title: 17_tyrosine.pdf
 uid: 0b2cbf03-55da-729b-f0fb-6bce8bb751e5
