@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the lecture files as per the topics covered in the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ TOPICS
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-Natural Product Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/04peptidehandout))
+Natural Product Biosynthesis ({{% resource_link 788e0463-8ea2-5765-948d-9efa0670b8ba "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Natural Product Biosynthesis (![This resource may not render correctly in a scre
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-Polyketide Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/09_lecture))
+Polyketide Biosynthesis ({{% resource_link 7895c2ba-0746-78e8-f9e8-70fe17272af2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Polyketide Biosynthesis (![This resource may not render correctly in a screen re
 5-6
 {{< tdclose >}}
 {{< tdopen >}}
-Saccharide Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/11_saccharide))
+Saccharide Biosynthesis ({{% resource_link 7560e950-92dc-59c7-2819-c817ac58ace7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,9 +54,9 @@ Saccharide Biosynthesis (![This resource may not render correctly in a screen re
 7-8
 {{< tdclose >}}
 {{< tdopen >}}
-Shikimate Pathway (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/12_shikimate))  
+Shikimate Pathway ({{% resource_link 45dce9c9-9d2f-1c13-addd-3d9c83b53c59 "PDF" %}})  
   
-Shikimate Pathway Flavonoids (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/14_flavonoid))
+Shikimate Pathway Flavonoids ({{% resource_link e2e5c454-5c89-64eb-5be1-11376b85be1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,9 +65,9 @@ Shikimate Pathway Flavonoids (![This resource may not render correctly in a scre
 9-10
 {{< tdclose >}}
 {{< tdopen >}}
-Alkaloid Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/16_purine))  
+Alkaloid Biosynthesis ({{% resource_link 084fcf8e-9a2b-f203-041e-2085a993aa22 "PDF" %}})  
   
-Alkaloid Bioynthesis: Tyrosine Derivatives (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/17_tyrosine))
+Alkaloid Bioynthesis: Tyrosine Derivatives ({{% resource_link 0b2cbf03-55da-729b-f0fb-6bce8bb751e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +76,7 @@ Alkaloid Bioynthesis: Tyrosine Derivatives (![This resource may not render corre
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-Terpene Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/19_terpene)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/21_terpene2))
+Terpene Biosynthesis ({{% resource_link c0a3e277-04f0-232d-b7e6-593f0bcc9b8f "PDF 1" %}}) ({{% resource_link d1ebd83d-e92b-8449-713e-9d618d9a721e "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains recommended textbook, grading, and academic honesty
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

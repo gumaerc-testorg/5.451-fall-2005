@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-451-chemistry-of-biomolecules-i-fall-2005/fd20bd15294cff0ebc2ecf3ee4cb75e8_11_saccharide.pdf
+file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/fd20bd15294cff0ebc2ecf3ee4cb75e8_11_saccharide.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

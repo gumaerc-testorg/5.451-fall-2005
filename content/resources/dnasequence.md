@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains DNA sequence.
-file: /media/courses/5-451-chemistry-of-biomolecules-i-fall-2005/3d46394f122627c8a2568985931ce2ff_dnasequence.pdf
+file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/3d46394f122627c8a2568985931ce2ff_dnasequence.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: dnasequence.pdf
 uid: 3d46394f-1226-27c8-a256-8985931ce2ff
 ---
+This resource contains DNA sequence.
+
