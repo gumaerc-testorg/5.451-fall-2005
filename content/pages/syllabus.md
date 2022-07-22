@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains recommended textbook, grading, and academic honesty
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5e0cbb43-507b-31c7-4956-56b3438aff76
 ---
