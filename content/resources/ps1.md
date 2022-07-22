@@ -6,6 +6,7 @@ file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/f2fba605e1ace578dd232
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1.pdf
 uid: f2fba605-e1ac-e578-dd23-2fe42f10778e
 ---
 This resource contains 5 problem to test students understanding of course material.
-

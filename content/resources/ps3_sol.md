@@ -5,6 +5,7 @@ file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/c99a2dadfd9655990e25e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3_sol.pdf
 uid: c99a2dad-fd96-5599-0e25-e2fd0a7cbe3f
 ---
 This resource contains solutions to problem set 3.
-

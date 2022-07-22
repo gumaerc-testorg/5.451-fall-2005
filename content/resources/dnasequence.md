@@ -5,6 +5,7 @@ file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/3d46394f122627c8a2568
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dnasequence.pdf
 uid: 3d46394f-1226-27c8-a256-8985931ce2ff
 ---
 This resource contains DNA sequence.
-

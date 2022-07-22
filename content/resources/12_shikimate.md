@@ -5,6 +5,7 @@ file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/45dce9c99d2f1c13addd3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12_shikimate.pdf
 uid: 45dce9c9-9d2f-1c13-addd-3d9c83b53c59
 ---
 This resource contains deoxy sugar biosynthesis review.
-

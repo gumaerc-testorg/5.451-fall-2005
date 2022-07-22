@@ -5,6 +5,7 @@ file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/7895c2ba074678e8f9e87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 09_lecture.pdf
 uid: 7895c2ba-0746-78e8-f9e8-70fe17272af2
 ---
 This resource contains type2 polyketide biosynthesis: aromatic polyketides.
-
