@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains deoxy sugar biosynthesis.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/7560e95092dc59c72819c817ac58ace7_11_saccharide.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/7560e95092dc59c72819c817ac58ace7_11_saccharide.pdf
+file_size: 335886
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

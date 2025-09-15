@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains name of some natural product on which questions
   are going to asked.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/62180a057c8866b202283ef5c6b95adb_finalexamhandout.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/62180a057c8866b202283ef5c6b95adb_finalexamhandout.pdf
+file_size: 38731
 file_type: application/pdf
 learning_resource_types:
 - Exams

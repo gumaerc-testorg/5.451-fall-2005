@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains DNA sequence.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/3d46394f122627c8a2568985931ce2ff_dnasequence.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/3d46394f122627c8a2568985931ce2ff_dnasequence.pdf
+file_size: 14895
 file_type: application/pdf
 learning_resource_types:
 - Assignments

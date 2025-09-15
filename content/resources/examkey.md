@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains exam key.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/de48dc0bae6a3694d27de918fbf9a8e2_examkey.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/de48dc0bae6a3694d27de918fbf9a8e2_examkey.pdf
+file_size: 301372
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains terpene biosynthesis, classification of terpenes,
   and synthesis of manomers DMAPP and IPP.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/c0a3e27704f0232db7e6593f0bcc9b8f_19_terpene.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/c0a3e27704f0232db7e6593f0bcc9b8f_19_terpene.pdf
+file_size: 890844
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

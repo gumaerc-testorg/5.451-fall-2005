@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains flavonoid biosynthesis review, alkaloid biosynthesis:
   nitrogen containing compounds, and starting materials: amino acids and nucleic acids.'
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/084fcf8e9a2bf203041e2085a993aa22_16_purine.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/084fcf8e9a2bf203041e2085a993aa22_16_purine.pdf
+file_size: 549881
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

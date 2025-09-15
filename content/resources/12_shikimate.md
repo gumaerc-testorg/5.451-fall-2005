@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains deoxy sugar biosynthesis review.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/45dce9c99d2f1c13addd3d9c83b53c59_12_shikimate.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/45dce9c99d2f1c13addd3d9c83b53c59_12_shikimate.pdf
+file_size: 580631
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

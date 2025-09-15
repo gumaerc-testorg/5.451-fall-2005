@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains solutions for problem set 2.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/ea5698bd200d9d37c96f8d43675781a8_ps2_sol.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/ea5698bd200d9d37c96f8d43675781a8_ps2_sol.pdf
+file_size: 121605
 file_type: application/pdf
 learning_resource_types:
 - Assignments

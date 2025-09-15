@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains 4 problems to test students understanding of course
   material.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/f272b9e631641d61901cbeee4551afbd_ps3.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/f272b9e631641d61901cbeee4551afbd_ps3.pdf
+file_size: 65851
 file_type: application/pdf
 learning_resource_types:
 - Assignments

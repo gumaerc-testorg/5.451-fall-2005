@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains type2 polyketide biosynthesis: aromatic polyketides.'
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/7895c2ba074678e8f9e870fe17272af2_09_lecture.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/7895c2ba074678e8f9e870fe17272af2_09_lecture.pdf
+file_size: 732823
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

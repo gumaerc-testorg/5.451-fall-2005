@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains examples of pharmacologically important natural
   products.
-file: /courses/5-451-chemistry-of-biomolecules-i-fall-2005/788e04638ea25765948d9efa0670b8ba_04peptidehandout.pdf
+file: /ol-ocw-studio-app/courses/5-451-chemistry-of-biomolecules-i-fall-2005/788e04638ea25765948d9efa0670b8ba_04peptidehandout.pdf
+file_size: 2443649
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
